@@ -1,0 +1,7 @@
+temp=int(input("enter a temperature"))
+if temp>=25 and temp<=50:
+         print("wear light clothes")
+elif temp>=10 and temp<=24:
+         print("wear medium heavy clothes")
+elif temp>=-10 and temp<=9:
+         print("wear woolen and heavy clothes and jacket")
