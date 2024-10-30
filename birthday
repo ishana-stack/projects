@@ -1,0 +1,10 @@
+ishana=19,10,2013
+tulsi=9,10,2012
+pankhuri=3,8,2013
+shaniddhi=27,9,2014
+esha=18,10,2013
+print(ishana)
+print(tulsi)
+print(pankhuri)
+print(shaniddhi)
+print(esha)
