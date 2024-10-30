@@ -1,0 +1,4 @@
+x=int(input("enter a number"))
+square_root=(x*x)/x
+print(square_root)
+
